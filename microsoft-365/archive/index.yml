@@ -50,6 +50,8 @@ landingContent:
         links:
           - text: Manage Microsoft 365 Archive
             url: archive-manage.md
+          - text: Manage inactive files
+            url: manage-inactive-files.md
           - text: Archive states
             url: archive-states.md
           - text: End user experience
@@ -78,4 +80,3 @@ landingContent:
             url: /sharepoint/dev/embedded/overview
           - text: Document processing for Microsoft 365
             url: /microsoft-365/documentprocessing/
-

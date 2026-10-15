@@ -16,6 +16,8 @@ items:
       href: archive-states.md
     - name: Manage 
       href: archive-manage.md
+    - name: Manage inactive files
+      href: manage-inactive-files.md
     - name: Compliance 
       href: archive-compliance.md
     - name: End user experience 
@@ -26,7 +28,6 @@ items:
       href: archive-faq.md
     - name: For developers
       href: developer-guidance.md
-
 
 
 
